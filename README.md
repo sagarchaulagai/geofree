@@ -729,4 +729,60 @@ Explore the world with our collection of free GeoGuessr challenge links! No paid
 | 16     | <a href='https://www.geoguessr.com/challenge/Megu7LzNykjcCLu1' target='_blank'>https://www.geoguessr.com/challenge/Megu7LzNykjcCLu1</a> |
 | 17     | <a href='https://www.geoguessr.com/challenge/HQO8oH7tDJ1FRxcH' target='_blank'>https://www.geoguessr.com/challenge/HQO8oH7tDJ1FRxcH</a> |
 
+## An AI Generated World (Moving)
+| Index | Challenge Link |
+|-------|----------------|
+| 1     | <a href='https://www.geoguessr.com/challenge/cEKjgCicIxGTW2If' target='_blank'>https://www.geoguessr.com/challenge/cEKjgCicIxGTW2If</a> |
+| 2     | <a href='https://www.geoguessr.com/challenge/wKt8CWV9vc5FnZQU' target='_blank'>https://www.geoguessr.com/challenge/wKt8CWV9vc5FnZQU</a> |
+| 3     | <a href='https://www.geoguessr.com/challenge/rHnXT7GJGMaUcwV1' target='_blank'>https://www.geoguessr.com/challenge/rHnXT7GJGMaUcwV1</a> |
+| 4     | <a href='https://www.geoguessr.com/challenge/IEsJQtPxcK98IvU1' target='_blank'>https://www.geoguessr.com/challenge/IEsJQtPxcK98IvU1</a> |
+| 5     | <a href='https://www.geoguessr.com/challenge/DVK1DQxY65NOaJqW' target='_blank'>https://www.geoguessr.com/challenge/DVK1DQxY65NOaJqW</a> |
+| 6     | <a href='https://www.geoguessr.com/challenge/mDwZo7T9mYGKJsjp' target='_blank'>https://www.geoguessr.com/challenge/mDwZo7T9mYGKJsjp</a> |
+| 7     | <a href='https://www.geoguessr.com/challenge/2xCEmihuMiVmBe7A' target='_blank'>https://www.geoguessr.com/challenge/2xCEmihuMiVmBe7A</a> |
+| 8     | <a href='https://www.geoguessr.com/challenge/T0tB3K3XVas2kxZP' target='_blank'>https://www.geoguessr.com/challenge/T0tB3K3XVas2kxZP</a> |
+| 9     | <a href='https://www.geoguessr.com/challenge/3urpnVwtkMkdOJOE' target='_blank'>https://www.geoguessr.com/challenge/3urpnVwtkMkdOJOE</a> |
+| 10     | <a href='https://www.geoguessr.com/challenge/1vl9l6cA0EHM1U3u' target='_blank'>https://www.geoguessr.com/challenge/1vl9l6cA0EHM1U3u</a> |
+| 11     | <a href='https://www.geoguessr.com/challenge/y9xhP0LWdRnMWIZU' target='_blank'>https://www.geoguessr.com/challenge/y9xhP0LWdRnMWIZU</a> |
+| 12     | <a href='https://www.geoguessr.com/challenge/YXQLQhD2nPqWGHla' target='_blank'>https://www.geoguessr.com/challenge/YXQLQhD2nPqWGHla</a> |
+| 13     | <a href='https://www.geoguessr.com/challenge/xk0U3D4q45Vn85DC' target='_blank'>https://www.geoguessr.com/challenge/xk0U3D4q45Vn85DC</a> |
+| 14     | <a href='https://www.geoguessr.com/challenge/nE7xqzzPWNssOa8u' target='_blank'>https://www.geoguessr.com/challenge/nE7xqzzPWNssOa8u</a> |
+| 15     | <a href='https://www.geoguessr.com/challenge/MY6rqlQy8LrcVGdA' target='_blank'>https://www.geoguessr.com/challenge/MY6rqlQy8LrcVGdA</a> |
+| 16     | <a href='https://www.geoguessr.com/challenge/DhUMRYBR6h447vJE' target='_blank'>https://www.geoguessr.com/challenge/DhUMRYBR6h447vJE</a> |
+| 17     | <a href='https://www.geoguessr.com/challenge/LPMKtdFtL74HaEuh' target='_blank'>https://www.geoguessr.com/challenge/LPMKtdFtL74HaEuh</a> |
+
+## An AI Generated World(No Moving)
+| Index | Challenge Link |
+|-------|----------------|
+| 1     | <a href='https://www.geoguessr.com/challenge/g9ObdD5MHFNTdFhH' target='_blank'>https://www.geoguessr.com/challenge/g9ObdD5MHFNTdFhH</a> |
+
+## An AI Generated World(NMPZ)
+| Index | Challenge Link |
+|-------|----------------|
+| 1     | <a href='https://www.geoguessr.com/challenge/kChKTA7HrvXMhoIc' target='_blank'>https://www.geoguessr.com/challenge/kChKTA7HrvXMhoIc</a> |
+| 2     | <a href='https://www.geoguessr.com/challenge/svgCr1NZk1f5Pe0U' target='_blank'>https://www.geoguessr.com/challenge/svgCr1NZk1f5Pe0U</a> |
+| 3     | <a href='https://www.geoguessr.com/challenge/9nbtl0GGVsl1VYPJ' target='_blank'>https://www.geoguessr.com/challenge/9nbtl0GGVsl1VYPJ</a> |
+| 4     | <a href='https://www.geoguessr.com/challenge/bdTu0MsoeBjPCqd0' target='_blank'>https://www.geoguessr.com/challenge/bdTu0MsoeBjPCqd0</a> |
+| 5     | <a href='https://www.geoguessr.com/challenge/YhBYpvetwVl1q1vxACW' target='_blank'>https://www.geoguessr.com/challenge/YhBYpvetwVl1q1vxACW</a> |
+| 6     | <a href='https://www.geoguessr.com/challenge/G3ECpXvdvcyNy1Cm' target='_blank'>https://www.geoguessr.com/challenge/G3ECpXvdvcyNy1Cm</a> |
+| 7     | <a href='https://www.geoguessr.com/challenge/yURRrCCTj3CNWWME' target='_blank'>https://www.geoguessr.com/challenge/yURRrCCTj3CNWWME</a> |
+
+## A Drone World (Default)
+| Index | Challenge Link |
+|-------|----------------|
+| 1     | <a href='https://www.geoguessr.com/challenge/IeGbBoLRNBs4xsUn' target='_blank'>https://www.geoguessr.com/challenge/IeGbBoLRNBs4xsUn</a> |
+| 2     | <a href='https://www.geoguessr.com/challenge/gquVwoLiC5RmMVfg' target='_blank'>https://www.geoguessr.com/challenge/gquVwoLiC5RmMVfg</a> |
+| 3     | <a href='https://www.geoguessr.com/challenge/emKSYM7MVBcxgiuq' target='_blank'>https://www.geoguessr.com/challenge/emKSYM7MVBcxgiuq</a> |
+| 4     | <a href='https://www.geoguessr.com/challenge/H9R3DhZ4LzmlVraK' target='_blank'>https://www.geoguessr.com/challenge/H9R3DhZ4LzmlVraK</a> |
+| 5     | <a href='https://www.geoguessr.com/challenge/amfzqsrbw7PqAGdH' target='_blank'>https://www.geoguessr.com/challenge/amfzqsrbw7PqAGdH</a> |
+| 6     | <a href='https://www.geoguessr.com/challenge/qakUJBLYo0Rd5hK5' target='_blank'>https://www.geoguessr.com/challenge/qakUJBLYo0Rd5hK5</a> |
+| 7     | <a href='https://www.geoguessr.com/challenge/5GdftLF9iJdwqG55' target='_blank'>https://www.geoguessr.com/challenge/5GdftLF9iJdwqG55</a> |
+| 8     | <a href='https://www.geoguessr.com/challenge/jGSm1vFesj8iOzpY' target='_blank'>https://www.geoguessr.com/challenge/jGSm1vFesj8iOzpY</a> |
+| 9     | <a href='https://www.geoguessr.com/challenge/DbC6cQ3vZzgtzAhU' target='_blank'>https://www.geoguessr.com/challenge/DbC6cQ3vZzgtzAhU</a> |
+| 10     | <a href='https://www.geoguessr.com/challenge/ED31S9lEMLYBsVZs' target='_blank'>https://www.geoguessr.com/challenge/ED31S9lEMLYBsVZs</a> |
+
+# Credits
+- <a href='https://www.geoguessr.com/user/5e5fcc1326bbda5284e824cf'>Jamabi</a> , taken from <a herf='https://docs.google.com/document/d/1AXUmaboQrEtwtqIPcmyMw5ExnOEry3MKb2hr7nh3ZPI/edit'>here</a>
+- <a href='https://www.geoguessr.com/user/602d5beb00c6210001148fca'>StormFighter</a> , taken from <a href='https://docs.google.com/spreadsheets/d/1r2fE6HMPPZqMHon1ScyAC3CY9Gjwu8Pm/edit?gid=2135507686#gid=2135507686'>here
+
+
 ##
