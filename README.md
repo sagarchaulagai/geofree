@@ -5,107 +5,106 @@ Explore the world with our collection of free GeoGuessr challenge links! No paid
 
 | Index | Challenge Link |
 |-------|----------------|
-| 1     | [Challenge 1](https://www.geoguessr.com/challenge/gWLfAnB18nwHUhwG) |
-| 2     | [Challenge 2](https://www.geoguessr.com/challenge/ZdBkl6MBK17CIqjq) |
-| 3     | [Challenge 3](https://www.geoguessr.com/challenge/AW7JtWQw76PogZuj) |
-| 4     | [Challenge 4](https://www.geoguessr.com/challenge/xGxqq4FxLbVOEMET) |
-| 5     | [Challenge 5](https://www.geoguessr.com/challenge/0f4Z8VqPd9mejF9k) |
-| 6     | [Challenge 6](https://www.geoguessr.com/challenge/Xe8XEQoZqtMtXlnC) |
-| 7     | [Challenge 7](https://www.geoguessr.com/challenge/3dxKxsZh2Rw1ACjs) |
-| 8     | [Challenge 8](https://www.geoguessr.com/challenge/ZIBcDrETb2865y1J) |
-| 9     | [Challenge 9](https://www.geoguessr.com/challenge/ENqSAvKZidxmuJCJ) |
-| 10    | [Challenge 10](https://www.geoguessr.com/challenge/gILDfVWXHmtsvz2K) |
-| 11    | [Challenge 11](https://www.geoguessr.com/challenge/MqzhFiMeLsAuzGVm) |
-| 12    | [Challenge 12](https://www.geoguessr.com/challenge/PnqDik2BmeaVA577) |
-| 13    | [Challenge 13](https://www.geoguessr.com/challenge/oXHiCYDwcXezx8QS) |
-| 14    | [Challenge 14](https://www.geoguessr.com/challenge/5fOaHC7HkKX65rw0) |
-| 15    | [Challenge 15](https://www.geoguessr.com/challenge/Ry5gL1uX1fkm60Fw) |
-| 16    | [Challenge 16](https://www.geoguessr.com/challenge/7Xtjmj5c8FSY2MfS) |
-| 17    | [Challenge 17](https://www.geoguessr.com/challenge/2BSpAYbJAEHtHvqO) |
-| 18    | [Challenge 18](https://www.geoguessr.com/challenge/aCJzs1g2S3SqglNX) |
-| 19    | [Challenge 19](https://www.geoguessr.com/challenge/3wJcn11CnSSyug0G) |
-| 20    | [Challenge 20](https://www.geoguessr.com/challenge/eHoQBzAfDhpZwUce) |
-| 21    | [Challenge 21](https://www.geoguessr.com/challenge/7gX3BoSGso9gtfcj) |
-| 22    | [Challenge 22](https://www.geoguessr.com/challenge/nTVM48YNhaWXMj3i) |
-| 23    | [Challenge 23](https://www.geoguessr.com/challenge/BQt1bgMSWOGUdCq2) |
-| 24    | [Challenge 24](https://www.geoguessr.com/challenge/DwIOtn9MFIMQLCRZ) |
-| 25    | [Challenge 25](https://www.geoguessr.com/challenge/p4IbT5of3UKeIgbZ) |
-| 26    | [Challenge 26](https://www.geoguessr.com/challenge/iNuuk1IvSaT6sMPg) |
-| 27    | [Challenge 27](https://www.geoguessr.com/challenge/uRDNk3OBo4pCF2uS) |
-| 28    | [Challenge 28](https://www.geoguessr.com/challenge/wPEwMhwTISgUGocE) |
-| 29    | [Challenge 29](https://www.geoguessr.com/challenge/xrkYFugFfUcQ1Cvy) |
-| 30    | [Challenge 30](https://www.geoguessr.com/challenge/pvMkUiLahKzwGyQh) |
-| 31    | [Challenge 31](https://www.geoguessr.com/challenge/9M0f5cKFFe77zDPe) |
-| 32    | [Challenge 32](https://www.geoguessr.com/challenge/W2wonuBGyLXUqckL) |
-| 33    | [Challenge 33](https://www.geoguessr.com/challenge/OyLw14HfqxpXpUV8) |
-| 34    | [Challenge 34](https://www.geoguessr.com/challenge/sRm7MA0BBosPbiYM) |
-| 35    | [Challenge 35](https://www.geoguessr.com/challenge/fHUP7qyPGPzpOzF6) |
-| 36    | [Challenge 36](https://www.geoguessr.com/challenge/HoxxXIMSDUNnJsfs) |
-| 37    | [Challenge 37](https://www.geoguessr.com/challenge/sPj8OT0qzcuojLBn) |
-| 38    | [Challenge 38](https://www.geoguessr.com/challenge/WcY9Zx59NNA4ksIk) |
-| 39    | [Challenge 39](https://www.geoguessr.com/challenge/DXyDkzEgR5XLziAF) |
-| 40    | [Challenge 40](https://www.geoguessr.com/challenge/T2JfVi9Vq6EZXDo1) |
-| 41    | [Challenge 41](https://www.geoguessr.com/challenge/zu32lVgV0DZ3Jy1J) |
-| 42    | [Challenge 42](https://www.geoguessr.com/challenge/Hh81itc1Me2GV1qi) |
-| 43    | [Challenge 43](https://www.geoguessr.com/challenge/yntVOg4QmjGuMLMR) |
-| 44    | [Challenge 44](https://www.geoguessr.com/challenge/sUbZ4Dy4pZKZaGAE) |
-| 45    | [Challenge 45](https://www.geoguessr.com/challenge/cG7V1LcdQn4u7BjR) |
-| 46    | [Challenge 46](https://www.geoguessr.com/challenge/9pKvBpEt9fD1saCZ) |
-| 47    | [Challenge 47](https://www.geoguessr.com/challenge/YtAntdLjqVI6ArT1) |
-| 48    | [Challenge 48](https://www.geoguessr.com/challenge/JEsPHi9tppo5S2gP) |
-| 49    | [Challenge 49](https://www.geoguessr.com/challenge/t9eguG2MZ790APcy) |
-| 50    | [Challenge 50](https://www.geoguessr.com/challenge/NtZFUrDp32pEj68D) |
-| 51    | [Challenge 51](https://www.geoguessr.com/challenge/wL14FXmCzY0KaF5x) |
-| 52    | [Challenge 52](https://www.geoguessr.com/challenge/4gMaN3268BrkVPkb) |
-| 53    | [Challenge 53](https://www.geoguessr.com/challenge/b3C73ggU4WTWydIf) |
-| 54    | [Challenge 54](https://www.geoguessr.com/challenge/uc1aswWwU09JwTJp) |
-| 55    | [Challenge 55](https://www.geoguessr.com/challenge/vpZtM3DQyj1Y54NX) |
-| 56    | [Challenge 56](https://www.geoguessr.com/challenge/0Q0N8R9XceTaSf4O) |
-| 57    | [Challenge 57](https://www.geoguessr.com/challenge/uKaRDo76ZFuYFg31) |
-| 58    | [Challenge 58](https://www.geoguessr.com/challenge/g09pyhkS9C8bQvs7) |
-| 59    | [Challenge 59](https://www.geoguessr.com/challenge/k2mXojl6xZEIKQsL) |
-| 60    | [Challenge 60](https://www.geoguessr.com/challenge/VOJLo3fSplD1OzqF) |
-| 61    | [Challenge 61](https://www.geoguessr.com/challenge/pxgFEtvxq459YH03) |
-| 62    | [Challenge 62](https://www.geoguessr.com/challenge/rcDEzxyx6Y0umk4z) |
-| 63    | [Challenge 63](https://www.geoguessr.com/challenge/ZeInXVb4UHxG02QD) |
-| 64    | [Challenge 64](https://www.geoguessr.com/challenge/mbZoVvmvHfxqMHER) |
-| 65    | [Challenge 65](https://www.geoguessr.com/challenge/FadulxmImkiZijk1) |
-| 66    | [Challenge 66](https://www.geoguessr.com/challenge/hjJUAHUfdXzkSNDM) |
-| 67    | [Challenge 67](https://www.geoguessr.com/challenge/B605ttdghnpUfzXR) |
-| 68    | [Challenge 68](https://www.geoguessr.com/challenge/ASMJeuISe91JSzQc) |
-| 69    | [Challenge 69](https://www.geoguessr.com/challenge/WrHm9CcWXmJbaH75) |
-| 70    | [Challenge 70](https://www.geoguessr.com/challenge/l7FiMnJmc48TDNls) |
-| 71    | [Challenge 71](https://www.geoguessr.com/challenge/1CHOlKhXmz99tXPW) |
-| 72    | [Challenge 72](https://www.geoguessr.com/challenge/ZSgIjkO11KVY1rjR) |
-| 73    | [Challenge 73](https://www.geoguessr.com/challenge/iwyhUR9av6ZVDGl3) |
-| 74    | [Challenge 74](https://www.geoguessr.com/challenge/AcrsrErKsceb2JOb) |
-| 75    | [Challenge 75](https://www.geoguessr.com/challenge/5JoGmBLRIl8zzsOD) |
-| 76    | [Challenge 76](https://www.geoguessr.com/challenge/1V2J3keRQwzQ9MEM) |
-| 77    | [Challenge 77](https://www.geoguessr.com/challenge/VN6tXrpRbFbphhXA) |
-| 78    | [Challenge 78](https://www.geoguessr.com/challenge/JtNEl71BM2S1drYc) |
-| 79    | [Challenge 79](https://www.geoguessr.com/challenge/GVkeNQ4ggR01Yzs2) |
-| 80    | [Challenge 80](https://www.geoguessr.com/challenge/EZ1qq8OPFsVwGwcP) |
-| 81    | [Challenge 81](https://www.geoguessr.com/challenge/RwVFPMuqmh6zvjoG) |
-| 82    | [Challenge 82](https://www.geoguessr.com/challenge/H8d9Gya4aOWNA2Fc) |
-| 83    | [Challenge 83](https://www.geoguessr.com/challenge/XwUFqlZjbHO641JK) |
-| 84    | [Challenge 84](https://www.geoguessr.com/challenge/TvnmtUftLwuHqQ2K) |
-| 85    | [Challenge 85](https://www.geoguessr.com/challenge/z5gg1KI9QUY9AEFm) |
-| 86    | [Challenge 86](https://www.geoguessr.com/challenge/v5PfcSgljWFYDZXO) |
-| 87    | [Challenge 87](https://www.geoguessr.com/challenge/YpsWsIUGi1qczK07) |
-| 88    | [Challenge 88](https://www.geoguessr.com/challenge/yp5rr7bp8BHueGYT) |
-| 89    | [Challenge 89](https://www.geoguessr.com/challenge/hDDL1GtKnm5qytII) |
-| 90    | [Challenge 90](https://www.geoguessr.com/challenge/73yc8uIV2WhTZjww) |
-| 91    | [Challenge 91](https://www.geoguessr.com/challenge/5cMp5fGazPko3sf4) |
-| 92    | [Challenge 92](https://www.geoguessr.com/challenge/OO9PBx6sZazRWzUf) |
-| 93    | [Challenge 93](https://www.geoguessr.com/challenge/Ie6pAOlqv4cHQoVw) |
-| 94    | [Challenge 94](https://www.geoguessr.com/challenge/4bPSH2my33nlIpfc) |
-| 95    | [Challenge 95](https://www.geoguessr.com/challenge/6OXsWB9yMF4A7nEA) |
-| 96    | [Challenge 96](https://www.geoguessr.com/challenge/hvJzHu2b6LVz5alb) |
-| 97    | [Challenge 97](https://www.geoguessr.com/challenge/Nnt2OGqrxsYLiB77) |
-| 98    | [Challenge 98](https://www.geoguessr.com/challenge/rlheSfrQIEDifFtT) |
-| 99    | [Challenge 99](https://www.geoguessr.com/challenge/FBguALlC53q4ZptH) |
-| 100   | [Challenge 100](https://www.geoguessr.com/challenge/vw2GWHnhjEBWj3RU) |
-| 101   | [Challenge 101](https://www.geoguessr.com/challenge/m4rqcCUI1BUzXH68) |
-| 102   | [Challenge 102](https://www.geoguessr.com/challenge/zYRDcvoLWimy0FUb) |
-| 103   | [Challenge 103](https://www.geoguessr.com/challenge/Zl2cN2UMvZ2EuJoz) |
-
+| 1     | <a href='https://www.geoguessr.com/challenge/gWLfAnB18nwHUhwG' target='_blank'>https://www.geoguessr.com/challenge/gWLfAnB18nwHUhwG</a> |
+| 2     | <a href='https://www.geoguessr.com/challenge/ZdBkl6MBK17CIqjq' target='_blank'>https://www.geoguessr.com/challenge/ZdBkl6MBK17CIqjq</a> |
+| 3     | <a href='https://www.geoguessr.com/challenge/AW7JtWQw76PogZuj' target='_blank'>https://www.geoguessr.com/challenge/AW7JtWQw76PogZuj</a> |
+| 4     | <a href='https://www.geoguessr.com/challenge/xGxqq4FxLbVOEMET' target='_blank'>https://www.geoguessr.com/challenge/xGxqq4FxLbVOEMET</a> |
+| 5     | <a href='https://www.geoguessr.com/challenge/0f4Z8VqPd9mejF9k' target='_blank'>https://www.geoguessr.com/challenge/0f4Z8VqPd9mejF9k</a> |
+| 6     | <a href='https://www.geoguessr.com/challenge/Xe8XEQoZqtMtXlnC' target='_blank'>https://www.geoguessr.com/challenge/Xe8XEQoZqtMtXlnC</a> |
+| 7     | <a href='https://www.geoguessr.com/challenge/3dxKxsZh2Rw1ACjs' target='_blank'>https://www.geoguessr.com/challenge/3dxKxsZh2Rw1ACjs</a> |
+| 8     | <a href='https://www.geoguessr.com/challenge/ZIBcDrETb2865y1J' target='_blank'>https://www.geoguessr.com/challenge/ZIBcDrETb2865y1J</a> |
+| 9     | <a href='https://www.geoguessr.com/challenge/ENqSAvKZidxmuJCJ' target='_blank'>https://www.geoguessr.com/challenge/ENqSAvKZidxmuJCJ</a> |
+| 10     | <a href='https://www.geoguessr.com/challenge/gILDfVWXHmtsvz2K' target='_blank'>https://www.geoguessr.com/challenge/gILDfVWXHmtsvz2K</a> |
+| 11     | <a href='https://www.geoguessr.com/challenge/MqzhFiMeLsAuzGVm' target='_blank'>https://www.geoguessr.com/challenge/MqzhFiMeLsAuzGVm</a> |
+| 12     | <a href='https://www.geoguessr.com/challenge/PnqDik2BmeaVA577' target='_blank'>https://www.geoguessr.com/challenge/PnqDik2BmeaVA577</a> |
+| 13     | <a href='https://www.geoguessr.com/challenge/oXHiCYDwcXezx8QS' target='_blank'>https://www.geoguessr.com/challenge/oXHiCYDwcXezx8QS</a> |
+| 14     | <a href='https://www.geoguessr.com/challenge/5fOaHC7HkKX65rw0' target='_blank'>https://www.geoguessr.com/challenge/5fOaHC7HkKX65rw0</a> |
+| 15     | <a href='https://www.geoguessr.com/challenge/Ry5gL1uX1fkm60Fw' target='_blank'>https://www.geoguessr.com/challenge/Ry5gL1uX1fkm60Fw</a> |
+| 16     | <a href='https://www.geoguessr.com/challenge/7Xtjmj5c8FSY2MfS' target='_blank'>https://www.geoguessr.com/challenge/7Xtjmj5c8FSY2MfS</a> |
+| 17     | <a href='https://www.geoguessr.com/challenge/2BSpAYbJAEHtHvqO' target='_blank'>https://www.geoguessr.com/challenge/2BSpAYbJAEHtHvqO</a> |
+| 18     | <a href='https://www.geoguessr.com/challenge/aCJzs1g2S3SqglNX' target='_blank'>https://www.geoguessr.com/challenge/aCJzs1g2S3SqglNX</a> |
+| 19     | <a href='https://www.geoguessr.com/challenge/3wJcn11CnSSyug0G' target='_blank'>https://www.geoguessr.com/challenge/3wJcn11CnSSyug0G</a> |
+| 20     | <a href='https://www.geoguessr.com/challenge/eHoQBzAfDhpZwUce' target='_blank'>https://www.geoguessr.com/challenge/eHoQBzAfDhpZwUce</a> |
+| 21     | <a href='https://www.geoguessr.com/challenge/7gX3BoSGso9gtfcj' target='_blank'>https://www.geoguessr.com/challenge/7gX3BoSGso9gtfcj</a> |
+| 22     | <a href='https://www.geoguessr.com/challenge/nTVM48YNhaWXMj3i' target='_blank'>https://www.geoguessr.com/challenge/nTVM48YNhaWXMj3i</a> |
+| 23     | <a href='https://www.geoguessr.com/challenge/BQt1bgMSWOGUdCq2' target='_blank'>https://www.geoguessr.com/challenge/BQt1bgMSWOGUdCq2</a> |
+| 24     | <a href='https://www.geoguessr.com/challenge/DwIOtn9MFIMQLCRZ' target='_blank'>https://www.geoguessr.com/challenge/DwIOtn9MFIMQLCRZ</a> |
+| 25     | <a href='https://www.geoguessr.com/challenge/p4IbT5of3UKeIgbZ' target='_blank'>https://www.geoguessr.com/challenge/p4IbT5of3UKeIgbZ</a> |
+| 26     | <a href='https://www.geoguessr.com/challenge/iNuuk1IvSaT6sMPg' target='_blank'>https://www.geoguessr.com/challenge/iNuuk1IvSaT6sMPg</a> |
+| 27     | <a href='https://www.geoguessr.com/challenge/uRDNk3OBo4pCF2uS' target='_blank'>https://www.geoguessr.com/challenge/uRDNk3OBo4pCF2uS</a> |
+| 28     | <a href='https://www.geoguessr.com/challenge/wPEwMhwTISgUGocE' target='_blank'>https://www.geoguessr.com/challenge/wPEwMhwTISgUGocE</a> |
+| 29     | <a href='https://www.geoguessr.com/challenge/xrkYFugFfUcQ1Cvy' target='_blank'>https://www.geoguessr.com/challenge/xrkYFugFfUcQ1Cvy</a> |
+| 30     | <a href='https://www.geoguessr.com/challenge/pvMkUiLahKzwGyQh' target='_blank'>https://www.geoguessr.com/challenge/pvMkUiLahKzwGyQh</a> |
+| 31     | <a href='https://www.geoguessr.com/challenge/9M0f5cKFFe77zDPe' target='_blank'>https://www.geoguessr.com/challenge/9M0f5cKFFe77zDPe</a> |
+| 32     | <a href='https://www.geoguessr.com/challenge/W2wonuBGyLXUqckL' target='_blank'>https://www.geoguessr.com/challenge/W2wonuBGyLXUqckL</a> |
+| 33     | <a href='https://www.geoguessr.com/challenge/OyLw14HfqxpXpUV8' target='_blank'>https://www.geoguessr.com/challenge/OyLw14HfqxpXpUV8</a> |
+| 34     | <a href='https://www.geoguessr.com/challenge/sRm7MA0BBosPbiYM' target='_blank'>https://www.geoguessr.com/challenge/sRm7MA0BBosPbiYM</a> |
+| 35     | <a href='https://www.geoguessr.com/challenge/fHUP7qyPGPzpOzF6' target='_blank'>https://www.geoguessr.com/challenge/fHUP7qyPGPzpOzF6</a> |
+| 36     | <a href='https://www.geoguessr.com/challenge/HoxxXIMSDUNnJsfs' target='_blank'>https://www.geoguessr.com/challenge/HoxxXIMSDUNnJsfs</a> |
+| 37     | <a href='https://www.geoguessr.com/challenge/sPj8OT0qzcuojLBn' target='_blank'>https://www.geoguessr.com/challenge/sPj8OT0qzcuojLBn</a> |
+| 38     | <a href='https://www.geoguessr.com/challenge/WcY9Zx59NNA4ksIk' target='_blank'>https://www.geoguessr.com/challenge/WcY9Zx59NNA4ksIk</a> |
+| 39     | <a href='https://www.geoguessr.com/challenge/DXyDkzEgR5XLziAF' target='_blank'>https://www.geoguessr.com/challenge/DXyDkzEgR5XLziAF</a> |
+| 40     | <a href='https://www.geoguessr.com/challenge/T2JfVi9Vq6EZXDo1' target='_blank'>https://www.geoguessr.com/challenge/T2JfVi9Vq6EZXDo1</a> |
+| 41     | <a href='https://www.geoguessr.com/challenge/zu32lVgV0DZ3Jy1J' target='_blank'>https://www.geoguessr.com/challenge/zu32lVgV0DZ3Jy1J</a> |
+| 42     | <a href='https://www.geoguessr.com/challenge/Hh81itc1Me2GV1qi' target='_blank'>https://www.geoguessr.com/challenge/Hh81itc1Me2GV1qi</a> |
+| 43     | <a href='https://www.geoguessr.com/challenge/yntVOg4QmjGuMLMR' target='_blank'>https://www.geoguessr.com/challenge/yntVOg4QmjGuMLMR</a> |
+| 44     | <a href='https://www.geoguessr.com/challenge/sUbZ4Dy4pZKZaGAE' target='_blank'>https://www.geoguessr.com/challenge/sUbZ4Dy4pZKZaGAE</a> |
+| 45     | <a href='https://www.geoguessr.com/challenge/cG7V1LcdQn4u7BjR' target='_blank'>https://www.geoguessr.com/challenge/cG7V1LcdQn4u7BjR</a> |
+| 46     | <a href='https://www.geoguessr.com/challenge/9pKvBpEt9fD1saCZ' target='_blank'>https://www.geoguessr.com/challenge/9pKvBpEt9fD1saCZ</a> |
+| 47     | <a href='https://www.geoguessr.com/challenge/YtAntdLjqVI6ArT1' target='_blank'>https://www.geoguessr.com/challenge/YtAntdLjqVI6ArT1</a> |
+| 48     | <a href='https://www.geoguessr.com/challenge/JEsPHi9tppo5S2gP' target='_blank'>https://www.geoguessr.com/challenge/JEsPHi9tppo5S2gP</a> |
+| 49     | <a href='https://www.geoguessr.com/challenge/t9eguG2MZ790APcy' target='_blank'>https://www.geoguessr.com/challenge/t9eguG2MZ790APcy</a> |
+| 50     | <a href='https://www.geoguessr.com/challenge/NtZFUrDp32pEj68D' target='_blank'>https://www.geoguessr.com/challenge/NtZFUrDp32pEj68D</a> |
+| 51     | <a href='https://www.geoguessr.com/challenge/wL14FXmCzY0KaF5x' target='_blank'>https://www.geoguessr.com/challenge/wL14FXmCzY0KaF5x</a> |
+| 52     | <a href='https://www.geoguessr.com/challenge/4gMaN3268BrkVPkb' target='_blank'>https://www.geoguessr.com/challenge/4gMaN3268BrkVPkb</a> |
+| 53     | <a href='https://www.geoguessr.com/challenge/b3C73ggU4WTWydIf' target='_blank'>https://www.geoguessr.com/challenge/b3C73ggU4WTWydIf</a> |
+| 54     | <a href='https://www.geoguessr.com/challenge/uc1aswWwU09JwTJp' target='_blank'>https://www.geoguessr.com/challenge/uc1aswWwU09JwTJp</a> |
+| 55     | <a href='https://www.geoguessr.com/challenge/vpZtM3DQyj1Y54NX' target='_blank'>https://www.geoguessr.com/challenge/vpZtM3DQyj1Y54NX</a> |
+| 56     | <a href='https://www.geoguessr.com/challenge/0Q0N8R9XceTaSf4O' target='_blank'>https://www.geoguessr.com/challenge/0Q0N8R9XceTaSf4O</a> |
+| 57     | <a href='https://www.geoguessr.com/challenge/uKaRDo76ZFuYFg31' target='_blank'>https://www.geoguessr.com/challenge/uKaRDo76ZFuYFg31</a> |
+| 58     | <a href='https://www.geoguessr.com/challenge/g09pyhkS9C8bQvs7' target='_blank'>https://www.geoguessr.com/challenge/g09pyhkS9C8bQvs7</a> |
+| 59     | <a href='https://www.geoguessr.com/challenge/k2mXojl6xZEIKQsL' target='_blank'>https://www.geoguessr.com/challenge/k2mXojl6xZEIKQsL</a> |
+| 60     | <a href='https://www.geoguessr.com/challenge/VOJLo3fSplD1OzqF' target='_blank'>https://www.geoguessr.com/challenge/VOJLo3fSplD1OzqF</a> |
+| 61     | <a href='https://www.geoguessr.com/challenge/pxgFEtvxq459YH03' target='_blank'>https://www.geoguessr.com/challenge/pxgFEtvxq459YH03</a> |
+| 62     | <a href='https://www.geoguessr.com/challenge/rcDEzxyx6Y0umk4z' target='_blank'>https://www.geoguessr.com/challenge/rcDEzxyx6Y0umk4z</a> |
+| 63     | <a href='https://www.geoguessr.com/challenge/ZeInXVb4UHxG02QD' target='_blank'>https://www.geoguessr.com/challenge/ZeInXVb4UHxG02QD</a> |
+| 64     | <a href='https://www.geoguessr.com/challenge/mbZoVvmvHfxqMHER' target='_blank'>https://www.geoguessr.com/challenge/mbZoVvmvHfxqMHER</a> |
+| 65     | <a href='https://www.geoguessr.com/challenge/FadulxmImkiZijk1' target='_blank'>https://www.geoguessr.com/challenge/FadulxmImkiZijk1</a> |
+| 66     | <a href='https://www.geoguessr.com/challenge/hjJUAHUfdXzkSNDM' target='_blank'>https://www.geoguessr.com/challenge/hjJUAHUfdXzkSNDM</a> |
+| 67     | <a href='https://www.geoguessr.com/challenge/B605ttdghnpUfzXR' target='_blank'>https://www.geoguessr.com/challenge/B605ttdghnpUfzXR</a> |
+| 68     | <a href='https://www.geoguessr.com/challenge/ASMJeuISe91JSzQc' target='_blank'>https://www.geoguessr.com/challenge/ASMJeuISe91JSzQc</a> |
+| 69     | <a href='https://www.geoguessr.com/challenge/WrHm9CcWXmJbaH75' target='_blank'>https://www.geoguessr.com/challenge/WrHm9CcWXmJbaH75</a> |
+| 70     | <a href='https://www.geoguessr.com/challenge/l7FiMnJmc48TDNls' target='_blank'>https://www.geoguessr.com/challenge/l7FiMnJmc48TDNls</a> |
+| 71     | <a href='https://www.geoguessr.com/challenge/1CHOlKhXmz99tXPW' target='_blank'>https://www.geoguessr.com/challenge/1CHOlKhXmz99tXPW</a> |
+| 72     | <a href='https://www.geoguessr.com/challenge/ZSgIjkO11KVY1rjR' target='_blank'>https://www.geoguessr.com/challenge/ZSgIjkO11KVY1rjR</a> |
+| 73     | <a href='https://www.geoguessr.com/challenge/iwyhUR9av6ZVDGl3' target='_blank'>https://www.geoguessr.com/challenge/iwyhUR9av6ZVDGl3</a> |
+| 74     | <a href='https://www.geoguessr.com/challenge/AcrsrErKsceb2JOb' target='_blank'>https://www.geoguessr.com/challenge/AcrsrErKsceb2JOb</a> |
+| 75     | <a href='https://www.geoguessr.com/challenge/5JoGmBLRIl8zzsOD' target='_blank'>https://www.geoguessr.com/challenge/5JoGmBLRIl8zzsOD</a> |
+| 76     | <a href='https://www.geoguessr.com/challenge/1V2J3keRQwzQ9MEM' target='_blank'>https://www.geoguessr.com/challenge/1V2J3keRQwzQ9MEM</a> |
+| 77     | <a href='https://www.geoguessr.com/challenge/VN6tXrpRbFbphhXA' target='_blank'>https://www.geoguessr.com/challenge/VN6tXrpRbFbphhXA</a> |
+| 78     | <a href='https://www.geoguessr.com/challenge/JtNEl71BM2S1drYc' target='_blank'>https://www.geoguessr.com/challenge/JtNEl71BM2S1drYc</a> |
+| 79     | <a href='https://www.geoguessr.com/challenge/GVkeNQ4ggR01Yzs2' target='_blank'>https://www.geoguessr.com/challenge/GVkeNQ4ggR01Yzs2</a> |
+| 80     | <a href='https://www.geoguessr.com/challenge/EZ1qq8OPFsVwGwcP' target='_blank'>https://www.geoguessr.com/challenge/EZ1qq8OPFsVwGwcP</a> |
+| 81     | <a href='https://www.geoguessr.com/challenge/RwVFPMuqmh6zvjoG' target='_blank'>https://www.geoguessr.com/challenge/RwVFPMuqmh6zvjoG</a> |
+| 82     | <a href='https://www.geoguessr.com/challenge/H8d9Gya4aOWNA2Fc' target='_blank'>https://www.geoguessr.com/challenge/H8d9Gya4aOWNA2Fc</a> |
+| 83     | <a href='https://www.geoguessr.com/challenge/XwUFqlZjbHO641JK' target='_blank'>https://www.geoguessr.com/challenge/XwUFqlZjbHO641JK</a> |
+| 84     | <a href='https://www.geoguessr.com/challenge/TvnmtUftLwuHqQ2K' target='_blank'>https://www.geoguessr.com/challenge/TvnmtUftLwuHqQ2K</a> |
+| 85     | <a href='https://www.geoguessr.com/challenge/z5gg1KI9QUY9AEFm' target='_blank'>https://www.geoguessr.com/challenge/z5gg1KI9QUY9AEFm</a> |
+| 86     | <a href='https://www.geoguessr.com/challenge/v5PfcSgljWFYDZXO' target='_blank'>https://www.geoguessr.com/challenge/v5PfcSgljWFYDZXO</a> |
+| 87     | <a href='https://www.geoguessr.com/challenge/YpsWsIUGi1qczK07' target='_blank'>https://www.geoguessr.com/challenge/YpsWsIUGi1qczK07</a> |
+| 88     | <a href='https://www.geoguessr.com/challenge/yp5rr7bp8BHueGYT' target='_blank'>https://www.geoguessr.com/challenge/yp5rr7bp8BHueGYT</a> |
+| 89     | <a href='https://www.geoguessr.com/challenge/hDDL1GtKnm5qytII' target='_blank'>https://www.geoguessr.com/challenge/hDDL1GtKnm5qytII</a> |
+| 90     | <a href='https://www.geoguessr.com/challenge/73yc8uIV2WhTZjww' target='_blank'>https://www.geoguessr.com/challenge/73yc8uIV2WhTZjww</a> |
+| 91     | <a href='https://www.geoguessr.com/challenge/5cMp5fGazPko3sf4' target='_blank'>https://www.geoguessr.com/challenge/5cMp5fGazPko3sf4</a> |
+| 92     | <a href='https://www.geoguessr.com/challenge/OO9PBx6sZazRWzUf' target='_blank'>https://www.geoguessr.com/challenge/OO9PBx6sZazRWzUf</a> |
+| 93     | <a href='https://www.geoguessr.com/challenge/Ie6pAOlqv4cHQoVw' target='_blank'>https://www.geoguessr.com/challenge/Ie6pAOlqv4cHQoVw</a> |
+| 94     | <a href='https://www.geoguessr.com/challenge/4bPSH2my33nlIpfc' target='_blank'>https://www.geoguessr.com/challenge/4bPSH2my33nlIpfc</a> |
+| 95     | <a href='https://www.geoguessr.com/challenge/6OXsWB9yMF4A7nEA' target='_blank'>https://www.geoguessr.com/challenge/6OXsWB9yMF4A7nEA</a> |
+| 96     | <a href='https://www.geoguessr.com/challenge/hvJzHu2b6LVz5alb' target='_blank'>https://www.geoguessr.com/challenge/hvJzHu2b6LVz5alb</a> |
+| 97     | <a href='https://www.geoguessr.com/challenge/Nnt2OGqrxsYLiB77' target='_blank'>https://www.geoguessr.com/challenge/Nnt2OGqrxsYLiB77</a> |
+| 98     | <a href='https://www.geoguessr.com/challenge/rlheSfrQIEDifFtT' target='_blank'>https://www.geoguessr.com/challenge/rlheSfrQIEDifFtT</a> |
+| 99     | <a href='https://www.geoguessr.com/challenge/FBguALlC53q4ZptH' target='_blank'>https://www.geoguessr.com/challenge/FBguALlC53q4ZptH</a> |
+| 100     | <a href='https://www.geoguessr.com/challenge/vw2GWHnhjEBWj3RU' target='_blank'>https://www.geoguessr.com/challenge/vw2GWHnhjEBWj3RU</a> |
+| 101     | <a href='https://www.geoguessr.com/challenge/m4rqcCUI1BUzXH68' target='_blank'>https://www.geoguessr.com/challenge/m4rqcCUI1BUzXH68</a> |
+| 102     | <a href='https://www.geoguessr.com/challenge/zYRDcvoLWimy0FUb' target='_blank'>https://www.geoguessr.com/challenge/zYRDcvoLWimy0FUb</a> |
+| 103     | <a href='https://www.geoguessr.com/challenge/Zl2cN2UMvZ2EuJoz' target='_blank'>https://www.geoguessr.com/challenge/Zl2cN2UMvZ2EuJoz</a> |
